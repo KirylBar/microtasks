@@ -1,12 +1,12 @@
 import React from 'react';
-import {List} from "./components/List";
+import {Table} from "./components/Table";
 
 
 function App() {
     return (
         <div>
             <h1>Hello World!</h1>
-            <List/>
+            <Table/>
         </div>
     );
 }
