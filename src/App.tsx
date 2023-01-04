@@ -5,7 +5,9 @@ import {Table} from "./components/Table";
 const topCars = [
     {manufacturer:'BMW', model:'m5cs'},
     {manufacturer:'Mercedes', model:'e63s'},
-    {manufacturer:'Audi', model:'rs6'}
+    {manufacturer:'Audi', model:'rs6'},
+    {manufacturer:'Skoda', model:'A4'},
+    {manufacturer:'Lada', model:'Urban'},
 ]
 
 function App() {
